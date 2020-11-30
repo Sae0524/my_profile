@@ -1,4 +1,47 @@
-p{
+body{
+  background-color:#F0F8FF
+}
 
-  color:red;
+h1 {
+  color: rgba(243, 81, 32, 0.822);
+  text-align: center;
+  font-family: verdana;
+  font-size: 50px;
+}
+
+h2{
+  color: #483D8B;
+  font-family: verdana;
+  border-bottom-style: solid ;
+  border-color: #483D8B;
+}
+
+
+
+.img1{
+  text-align: center;
+}
+
+.about-me{
+  color: #483D8B;
+  background-color: #ffff;
+  border: solid #483D8B;
+  margin: 25px 50px;
+  padding: 25px;
+}
+
+.I-like-to{
+  color: #483D8B;
+  background-color: #ffff;
+  border: solid #483D8B;
+  margin: 25px 50px;
+  padding: 25px;
+}
+
+.I-dont-like{
+  color: #483D8B;
+  background-color: #ffff;
+  border: solid #483D8B;
+  margin: 25px 50px;
+  padding: 25px;
 }
